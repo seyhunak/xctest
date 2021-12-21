@@ -57,7 +57,6 @@
 56;CAR;IBAMobileBank/Story/MobileBankingSquad/Others/Scenes/AniPayAccountsAndCards/AniPayAccountAndCardsVC.swift
 57;CAR;IBAMobileBank/Story/LoanSquad/CardOrder/Controller/CardOrderPhotoIDCapture/ViewModel/CardOrderPhotoIDCaptureViewModel.swift
 58;CAR;IBAMobileBank/Story/MobileBankingSquad/Others/Scenes/AniPay/View/AniPayRegistrationViewController.swift
-59;CAR;IBAMobileBank/Story/MobileBankingSquad/Detail/Controller/CardAlertVC.swift
 60;CAR;IBAMobileBank/Story/DailyBankingSquad/IPS/IPSTransfer/Model/AliasModel.swift
 61;CAR;IBAMobileBank/Story/MobileBankingSquad/TransactionHistory/View/Cell/HorizontalAccountCell/HorizontalAccountCell.swift
 62;CAR;IBAMobileBank/Story/MobileBankingSquad/Detail/View/DepositTotalBalance/DepositTotalBalanceCell.swift
@@ -89,7 +88,6 @@
 89;CAR;IBAMobileBankCard/Screens/CardQuickActions/CardQuickActionsBuilder.swift
 90;CAR;IBAMobileBankCard/Screens/CardQuickActions/CardQuickActionsCoordinator.swift
 91;CAR;IBAMobileBankCard/Screens/CardOrderAgreement/CardOrderAgreementViewModel.swift
-92;CAR;Derived/Sources/Bundle+IBAMobileBankCard.swift
 93;CAR;IBAMobileBankCard/Screens/CardQuickActions/CardQuickActionsInputData.swift
 94;CAR;IBAMobileBankCard/Screens/CardQuickActions/CardQuickActionsViewController.swift
 95;CAR;IBAMobileBankCard/Screens/CardOrderAgreement/CardOrderAgreementViewController.swift
@@ -100,7 +98,6 @@
 100;CAR;IBAMobileBank/Story/LoanSquad/CardOrder/ViewModel/CardsViewControllerViewState.swift
 101;CAR;IBAMobileBank/Story/EDVSquad/ActivateCard/PortalRegistration/SetPortalPassword/EDVPortalSetPasswordViewController.swift
 102;CAR;IBAMobileBank/Story/EDVSquad/Receipts/ReceiptsList/Cell/EDVReceiptCell.swift
-103;CAR;IBAMobileBank/Story/MobileBankingSquad/MainAndIntro/View/CardCarousel.swift
 104;CAR;IBAMobileBank/Story/EDVSquad/AddReceipt/Manually/EDVManualViewController.swift
 105;CAR;IBAMobileBank/Story/EDVSquad/ActivateCard/PortalRegistration/SetPortalPassword/EDVPortalSetPasswordViewModel.swift
 106;CAR;IBAMobileBank/Story/LoanSquad/CardOrder/ViewModel/CardPreferencesViewModel.swift
@@ -181,7 +178,7 @@
 181;CAR;IBAMobileBank/Story/EDVSquad/AddReceipt/Confirmation/EDVConfirmationViewModel.swift
 182;CAR;IBAMobileBank/Story/LoanSquad/CardProducts/Controller/CardProductsListViewController.swift
 183;CAR;IBAMobileBank/Story/LoanSquad/CardOrder/Controller/CardOrderPreferences/CardOrderPreferencesViewController.swift
-184;CAR;IBAMobileBank/Story/DailyBankingSquad/Transfer/TransferOtherCard/OtherCard+Extension.swift
+184;TS;IBAMobileBank/Story/DailyBankingSquad/Transfer/TransferOtherCard/OtherCard+Extension.swift
 185;CAR;IBAMobileBank/Story/EDVSquad/Receipts/Detail/EDVReceiptDetailViewModel.swift
 186;CAR;IBAMobileBank/Story/LoanSquad/CardProducts/View/CardProductDetailsCells/CardProductDetailCell.swift
 187;CAR;IBAMobileBank/Story/LoanSquad/CardOrder/CardOrderOTP/CardOrderOTPViewModel.swift
